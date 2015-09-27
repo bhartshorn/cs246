@@ -12,15 +12,8 @@ import java.util.ArrayList;
  * @version: 1.01
  *
  * Description:
- *    Displays a file passed as the first command line parameter
- *    line by line, each line preceeded by the number of words
- *    in that line.
+ *    Helper class for fileTopic
  *
- * Usage:
- *    java WordCount <name of file to print>
- *
- * Various reference material for the writing of this program is
- * listed in the inline comments.
  */
 public class Topic {
    private String[] topicWords;
